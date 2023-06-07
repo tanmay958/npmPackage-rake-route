@@ -20,7 +20,7 @@ npm install rake-routes
 ```
 ## get Started
 ```shell
-const rooute  =  require('rake-route');
+const rooute  =  require('rake-routes');
 const logger =  new rooute('FILE_PATH');
 
 ```
