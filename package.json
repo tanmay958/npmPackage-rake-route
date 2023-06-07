@@ -1,0 +1,19 @@
+{
+  "name": "rake-routes",
+  "version": "1.0.0",
+  "description": "route showing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmay958/npmPackage-rake-route.git"
+  },
+  "author": "tanmay958",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanmay958/npmPackage-rake-route/issues"
+  },
+  "homepage": "https://github.com/tanmay958/npmPackage-rake-route#readme"
+}
