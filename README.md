@@ -2,7 +2,7 @@
 
 
 
-rake-routes is an npm package that provides a `rake route`-like feature for your Express.js application. It helps you generate and display a list of routes in your application, following the MVC architecture and REST conventions.
+rake-routes is an npm package that provides a `rake-routes`-like feature for your Express.js application. It helps you generate and display a list of routes in your application, following the MVC architecture and REST conventions.
 
 ## Features
 
@@ -22,7 +22,7 @@ npm install rake-routes
 ```shell
 const rooute  =  require('rake-routes');
 const logger =  new rooute('FILE_PATH');
-
 ```
+- The controller must be named resourceController like flightController here flight is the resource
 - File Path where all the route resides
 

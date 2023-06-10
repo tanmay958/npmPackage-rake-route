@@ -18,7 +18,7 @@ class pathsetter {
     {
       this.Routes(this.allLines[i]);
     }
-    console.log(this.obj);
+
   }
   findLink(str)
 { const first  =  str.indexOf("(");
